@@ -1,0 +1,22 @@
+FUNCTIONS IN C++
+
+Syntax: 
+
+Type Name(Parameters){
+       Body to execute	
+}
+
+----------------------------
+
+Example:
+1.  void name(){
+	cout << "Zakariya";  // output : Zakariya
+    }
+
+2.  void print(string name){
+	cout << name;  // output : (name given in parameter as string)
+    }
+
+3.  int sum(int a, int b){
+	return a+b; // output : gives sum of a and b
+    }
